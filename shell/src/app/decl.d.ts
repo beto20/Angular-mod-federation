@@ -1,0 +1,1 @@
+declare module 'mfe-author/ShowInfoModule'
